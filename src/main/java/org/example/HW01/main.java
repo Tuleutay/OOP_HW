@@ -25,7 +25,6 @@ public class main {
     User user = new User("Anna","qwer",new Basket());
     user.bayProduct(grocery,new Product("pasta"));
 
-
     System.out.println(grocery.toString());
     System.out.println(fruits.toString());
 
