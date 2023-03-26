@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="984b9c28-2816-4753-934b-43b589957940" name="Changes" comment="2HW commit done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/AbstractGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/EnglishLanList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/EnglishLanguageGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/NumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/RussianLanList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW03/WordRussianGame.java" afterDir="false" />
+    <list default="true" id="984b9c28-2816-4753-934b-43b589957940" name="Changes" comment="3HW commit done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW04/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW04/program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +46,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/OOP_HW/src/main/java/org/example/HW03"
+    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/OOP_HW/src/main/java/org/example/HW04"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tooly\Desktop\GB\Java\OOP_HW\src\main\java\org\example\HW04" />
       <recent name="C:\Users\tooly\Desktop\GB\Java\OOP_HW\src\main\java\org\example\HW03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.HW03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.org.example.HW04.program">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HW03.Application" />
       <module name="OOP_HW" />
@@ -93,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.HW04.program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW04.program" />
+      <module name="OOP_HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HW04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HW02.program" />
       <module name="OOP_HW" />
@@ -108,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.HW04.program" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.program" />
         <item itemvalue="Application.main" />
@@ -151,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678961127167</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3HW commit done">
+      <created>1679818958078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679818958078</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +184,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="2 commit" />
     <MESSAGE value="2HW commit done" />
-    <option name="LAST_COMMIT_MESSAGE" value="2HW commit done" />
+    <MESSAGE value="3HW commit done" />
+    <option name="LAST_COMMIT_MESSAGE" value="3HW commit done" />
   </component>
 </project>
