@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="984b9c28-2816-4753-934b-43b589957940" name="Changes" comment="4HW commit done">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/ActionForGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Study_Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Study_Group_Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/program/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WH05/viev/Output.java" afterDir="false" />
+    <list default="true" id="984b9c28-2816-4753-934b-43b589957940" name="Changes" comment="5HW commit done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/controller/ActionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/ActionForGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/ActionForSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Study_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Study_Group_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/program/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/viev/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/viev/OutputService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +32,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -197,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679828102978</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5HW commit done">
+      <created>1680890401089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680890401089</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +229,7 @@
     <MESSAGE value="2HW commit done" />
     <MESSAGE value="3HW commit done" />
     <MESSAGE value="4HW commit done" />
-    <option name="LAST_COMMIT_MESSAGE" value="4HW commit done" />
+    <MESSAGE value="5HW commit done" />
+    <option name="LAST_COMMIT_MESSAGE" value="5HW commit done" />
   </component>
 </project>
